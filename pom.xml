@@ -70,11 +70,10 @@
         </pluginManagement>
     </build>
     <distributionManagement>
-        <repository>
-            <id>central</id>
-            <name>8bef48136548-releases</name>
-            <url>http://localhost:8083/artifactory/lib-release-local</url>
-        </repository>
-
-    </distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>f7927b67580f-releases</name>
+        <url>http://localhost:8083/artifactory/libs-release</url>
+    </repository>
+</distributionManagement>
 </project>
