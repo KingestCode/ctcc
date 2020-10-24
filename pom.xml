@@ -12,7 +12,7 @@
     
     <artifactId>CTCC_producer</artifactId>
     <groupId>com.nil</groupId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <name>CTCC_producer</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
